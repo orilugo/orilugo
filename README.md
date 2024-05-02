@@ -1,7 +1,8 @@
-### Hi there 👋
+# Bienvenido a mi GitHub  👋
 
-<!--
-**orilugo/orilugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Emprendedora y apasionada en el mundo de la programación visual.
+
+
 
 Here are some ideas to get you started:
 
